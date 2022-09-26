@@ -1,0 +1,2 @@
+# PrivacyPolicy
+myApp's policies
